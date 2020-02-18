@@ -1,0 +1,20 @@
+{
+  "name": "ExtractGui",
+  "version": "1.0.0",
+  "description": "Gui Application for field extracter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shimonori/ExtractApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shimonori/ExtractApp/issues"
+  },
+  "homepage": "https://github.com/shimonori/ExtractApp#readme"
+}
